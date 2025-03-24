@@ -265,11 +265,4 @@
     80% { clip: rect(4px, 450px, 96px, 0); }
     100% { clip: rect(64px, 450px, 36px, 0); }
   }
-
-  /* Styles globaux */
-  :global(body) {
-    background-color: #1a1a1a;
-    color: #ff69b4; /* Rose */
-    font-family: 'Inter', sans-serif;
-  }
 </style>
