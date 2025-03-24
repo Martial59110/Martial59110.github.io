@@ -33,7 +33,7 @@
           <h1 class="display-3 fw-bold text-white glitch" data-text={name}>{name}</h1>
         </div>
         <p class="lead text-white-50 mb-2 typing-text">{title}</p>
-        <p class="cyber-text text-gradient mb-4">{description}</p>
+        <p class="cyber-text text-gradient mb-4">Passionné par la programmation en tout genre et les jeux vidéo !</p>
         <div class="d-flex gap-3">
           <a href="#contact" class="btn btn-gradient btn-lg">
             <span>Me contacter</span>
