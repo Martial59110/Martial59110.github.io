@@ -19,7 +19,7 @@ const config = {
 			strict: true
 		}),
 		paths: {
-			base: '/Martial59110.github.io'
+			base: ''
 		},
 		appDir: 'app'
 	}
