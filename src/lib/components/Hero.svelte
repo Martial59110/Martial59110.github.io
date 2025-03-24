@@ -59,7 +59,7 @@
               {:else}
                 <iframe 
                   bind:this={gameFrame}
-                  src="/game/index.html" 
+                  src="game/index.html" 
                   width="100%" 
                   height="100%" 
                   frameborder="0" 
