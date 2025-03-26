@@ -80,26 +80,20 @@
       title: "Jeux Vidéo",
       projects: [
         {
-          title: "Unity 2D Platformer",
-          description: "Jeu de plateforme 2D développé avec Unity et C#.",
-          image: "/projects/unity-game.png",
+          title: "Projet en Construction",
+          description: "En cours de développement. Plus d'informations à venir !",
+          image: "/projects/coming-soon.png",
           technologies: [
             {
-              name: "Unity",
-              logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
+              name: "Construct 3",
+              logo: "https://construct-static.com/images/v1014/r/global/construct-3-logo_v43.png"
             },
             {
-              name: "C#",
-              logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-            },
-            {
-              name: "Blender",
-              logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"
+              name: "Javascript",
+              logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
             }
           ],
-          type: "game",
-          codeUrl: "#",
-          demoUrl: "#"
+          type: "game"
         }
       ]
     }
