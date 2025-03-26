@@ -136,10 +136,10 @@
                       <i class="fab fa-google-play"></i> Google Play
                     </a>
                   {:else}
-                    <a href={project.codeUrl} class="project-link">
+                    <a href={project.codeUrl} class="project-link" target="_blank" rel="noopener noreferrer">
                       <i class="fas fa-code"></i> Code
                     </a>
-                    <a href={project.demoUrl} class="project-link">
+                    <a href={project.demoUrl} class="project-link" target="_blank" rel="noopener noreferrer">
                       <i class="fas fa-external-link-alt"></i> Demo
                     </a>
                   {/if}
