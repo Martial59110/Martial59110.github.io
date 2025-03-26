@@ -21,7 +21,7 @@ const config = {
 		paths: {
 			base: ''
 		},
-		appDir: 'app'
+		appDir: '_app'
 	}
 };
 
