@@ -19,7 +19,7 @@ const config = {
 			strict: true
 		}),
 		paths: {
-			base: ''
+			base: '/mf.github.io'
 		},
 		appDir: '_app'
 	}
